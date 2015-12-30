@@ -1,0 +1,55 @@
+/*
+=============================
+Header Styling
+=============================
+*/
+
+#header {
+  color: gray;
+  border-bottom: solid gray;
+}
+
+/*
+=============================
+Text Styling
+=============================
+*/
+
+body {
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/*
+=============================
+Positioning
+=============================
+*/
+
+#jon {
+  height: 100%;
+  width: 100%;
+  padding-top: 50px;
+}
+
+section {
+  float: left;
+  margin: 0 1.5%;
+  width: 30%;
+}
+
+aside {
+  float: right;
+  margin: 0 1.5%;
+  width: 40%;
+}
+
+div {
+  float: left;
+  margin: 0 1.5%;
+  width: 30%;
+  padding-top: 30px;
+}
+
+footer {
+  clear: both;
+}
