@@ -5,8 +5,8 @@ Header Styling
 */
 
 #header {
-  color: gray;
-  border-bottom: solid gray;
+  color: black;
+  border-bottom: solid black;
 }
 
 /*
@@ -17,6 +17,7 @@ Text Styling
 
 body {
   font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: #0D7EFF;
 }
 
 /*
